@@ -1,11 +1,10 @@
-
 {
-  "name": "@thechelsuk/your-project-name",
-  "version": "1.0.4",
-  "description": "A short description of your project",
+  "name": "@thechelsuk/script_convert_youtube_takeout_to_opml.py",
+  "version": "1.0.0",
+  "description": "A Python script that converts YouTube Takeout CSV subscription data into an OPML file to add to your feed reader.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thechelsuk/your-project-name.git"
+    "url": "https://github.com/thechelsuk/script_convert_youtube_takeout_to_opml.py.git"
   },
   "author": "thechelsuk",
   "license": "MIT"

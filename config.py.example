@@ -1,1 +1,4 @@
 # Change your vars here
+
+SUB_CSV_FILE = "path/to/your/csv/file.csv"
+SUB_OPML_FILE = "path/to/your/destination/subscription.opml"
