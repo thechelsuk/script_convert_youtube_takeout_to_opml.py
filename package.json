@@ -1,0 +1,12 @@
+
+{
+  "name": "@thechelsuk/your-project-name",
+  "version": "1.0.4",
+  "description": "A short description of your project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thechelsuk/your-project-name.git"
+  },
+  "author": "thechelsuk",
+  "license": "MIT"
+}
